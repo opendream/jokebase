@@ -1,22 +1,20 @@
 {
-    "knock-knock-jokes": {
+    "knock-knock": {
         "one": {
             "Q": "Knock, knock.",
             "Q": "9/11.",
-            "A": "You said you'd never forget."},
-
-        "two" : {
+            "A": "You said you'd never forget."
+        },
+        "two": {
             "Q": "Knock, knock.",
             "Q": "To.",
             "A": "To whom."
         },
-
-        "three" : {
+        "three": {
             "Q": "Knock, knock.",
             "Q": "Department of Homeland Security.",
             "A": "<slap the other speaker> I'm the one asking the questions here!"
         },
-
         "four": {
             "Q": "Knock, knock.",
             "Q": "Interrupting cow.",
@@ -77,7 +75,7 @@
         "OL": "Find me Trotsky's grave and I show you Communist plot.",
         "OL": "A horse walks into a bar. The bartender says, 'Why the long face?'",
         "OL": "Two fish are sitting in a tank. One turns to the other and says, 'Do you know how to drive this thing?'",
-        "OL":  "So a guy walks into a bar proclaiming he's a pirate so the bartender says: If you're a pirate, where are your Buccaneers? And the man answers 'On my bucking head.'",
+        "OL":  "So a guy walks into a bar proclaiming he's a pirate so the bartender says, 'If you're a pirate, where are your Buccaneers?' And the man answers 'On my bucking head.'",
         "OL": "You hear about the new fusion Chinese-German place? The food's good, but an hour later you're hungry for power.",
         "OL": "Two peanuts were walking down the street. One was assaulted."
     }
